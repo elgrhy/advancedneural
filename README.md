@@ -25,6 +25,7 @@ accelerator = AdvancedAccelerator(input_size, output_size, hidden_size=256, drop
 output = accelerator(input_data)
 
 ```
+Please check the usage.md file
 
 # Parameters
 
